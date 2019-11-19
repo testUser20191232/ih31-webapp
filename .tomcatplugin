@@ -9,5 +9,5 @@
     <warLocation></warLocation>
     <extraInfo></extraInfo>
     <mavenClasspath>false</mavenClasspath>
-    <webPath>/ih31-webapp</webPath>
+    <webPath>/ih31-webapp-fork</webPath>
 </tomcatProjectProperties>
